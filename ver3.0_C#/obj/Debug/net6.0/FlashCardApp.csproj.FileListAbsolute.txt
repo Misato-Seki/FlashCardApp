@@ -1,0 +1,15 @@
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/obj/Debug/net6.0/FlashCardApp.csproj.AssemblyReference.cache
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/obj/Debug/net6.0/FlashCardApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/obj/Debug/net6.0/FlashCardApp.AssemblyInfoInputs.cache
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/obj/Debug/net6.0/FlashCardApp.AssemblyInfo.cs
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/obj/Debug/net6.0/FlashCardApp.csproj.CoreCompileInputs.cache
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/bin/Debug/net6.0/FlashCardApp
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/bin/Debug/net6.0/FlashCardApp.deps.json
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/bin/Debug/net6.0/FlashCardApp.runtimeconfig.json
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/bin/Debug/net6.0/FlashCardApp.dll
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/bin/Debug/net6.0/FlashCardApp.pdb
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/obj/Debug/net6.0/FlashCardApp.dll
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/obj/Debug/net6.0/refint/FlashCardApp.dll
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/obj/Debug/net6.0/FlashCardApp.pdb
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/obj/Debug/net6.0/FlashCardApp.genruntimeconfig.cache
+/Users/misatoseki/GitHub/FlashCardApp/ver3.0_C#/obj/Debug/net6.0/ref/FlashCardApp.dll
