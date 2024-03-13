@@ -84,7 +84,16 @@ function viewlist() {
         addQuestionCard.classList.remove("hide");
     });
     buttonsCon.appendChild(editButton);
-    // disableButtons(false);
+    disableButtons(false);
+
+    // Delete Button
+    var deleteButton = document.createElement("button");
+    deleteButton.setAttribute("class", "delete");
+    deleteButton.innerHTML = `<i class="fa-solid fa-trash-can"></i>`;
+    deleteButton.addEventListener("click", () => {
+        modifyElement(deleteButton);
+    });
+    buttonsCon.appendChild(deleteButton);
 
     div.appendChild(buttonsCon);
     listCard[0].appendChild(div);
@@ -99,7 +108,15 @@ const modifyElement = (element, edit = false) => {
         let parentAns = parentDiv.querySelector(".answer-div").innerText;
         answer.value = parentAns;
         question.value = parentQuestion;
-        disableButton(true);
+        disableButtons(true);
     }
     parentDiv.remove();
+};
+
+// Disable edit and delete buttons
+const disableButtons = (value) => {
+    let editButtons = document.getElementsByClassName("edit");
+    Array.from(editButtons).forEach((element) => {
+        element.disabled = value;
+    });
 };
