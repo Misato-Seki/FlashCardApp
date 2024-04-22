@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Add Vocab Page</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    
+    <body>
+        <h1>VisualVocabFlash</h1>
+        <hr>
+    
+        <form action="/add_flashcard" method="post">
+            <label for="frontside">Frontside:</label>
+            <input type="text" id="frontside" name="frontside" required>
+    
+            <label for="backside">Backside:</label>
+            <input type="text" id="backside" name="backside" required>
+
+            <label for="link">ImageURL:</label>
+            <input type="text" id="link" name="link" required>
+    
+            <button type="submit">Add Flashcard</button>
+        </form>
+        
+    </body>
+</html>
